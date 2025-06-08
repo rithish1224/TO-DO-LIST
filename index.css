@@ -100,17 +100,7 @@ ul li span{
   text-align: center;
 }
 
-ul li span:hover{
-  background: #e9e7e7;
-  border-radius: 50%;
-}
 
-#moon{
-  height: 28px;
-  width: 28px;
-  padding-left:50px ;
-  cursor: pointer;
-}
 
 .dark-theme{
   color: #000000;
