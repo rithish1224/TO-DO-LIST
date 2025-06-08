@@ -55,8 +55,8 @@ input::placeholder{
 }
 
 .input button:hover {
-  background-color: #a600ff;      /* Darker blue on hover */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Subtle shadow */
+  background-color: #a600ff;     
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
 }
 
 .to-do li{
